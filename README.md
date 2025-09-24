@@ -8,7 +8,10 @@
 	</picture> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> 
-	<img src="https://astro.build/assets/press/astro-icon-light.png" alt="ASTRO" width="50" height="50"/>
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/white">
+	  <img src="https://cdn.simpleicons.org/astro/black" alt="astro" width="60" height="60"/>
+	</picture>
 	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
