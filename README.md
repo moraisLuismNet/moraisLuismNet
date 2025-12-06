@@ -15,6 +15,7 @@
 	</picture>
 	<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+	<img src="https://camo.githubusercontent.com/77adf5f52c8ec6ef1ebdd7008fed216c006cb190941c7f379f6b9b8c212bdeef/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="next" width="60" height="60"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg#gh-light-mode-only" alt="dotnet" width="60" height="60"/>
