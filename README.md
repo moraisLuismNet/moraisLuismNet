@@ -67,19 +67,6 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moraisLuismNet&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraisLuismNet&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moraisLuismNet&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Contact
 
 Want to contact me? I'll be happy to talk!
