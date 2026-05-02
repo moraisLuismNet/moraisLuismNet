@@ -38,7 +38,7 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" height="80"/></td>
-<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="80" height="80" style="filter: invert(1);"/></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/white"><img src="https://cdn.simpleicons.org/fastapi/black" alt="fastapi" width="80" height="80"/></picture></td>
 </tr>
 <tr>
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/></picture></td>
