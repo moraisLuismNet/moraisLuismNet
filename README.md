@@ -18,7 +18,7 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 
 ### 🛠️ Technologies and Tools
 
-<div class="icons"> 
+<div style="display: flex; gap: 10px; overflow-x: auto;">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>  
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 	<picture>
