@@ -23,13 +23,13 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bootstrap/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></picture></td>
-<td style="background:transparent;border:none;padding:8px;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/white"><img src="https://cdn.simpleicons.org/tailwindcss/black" alt="tailwind" width="60" height="60"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/white"><img src="https://cdn.simpleicons.org/astro/black" alt="astro" width="60" height="60"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></td>
-<td style="background:transparent;border:none;padding:8px;"><img src="https://camo.githubusercontent.com/77adf5f52c8ec6ef1ebdd7008fed216c006cb190941c7f379f6b9b8c212bdeef/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="next" width="60" height="60"/></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img src="https://cdn.simpleicons.org/nextdotjs/black" alt="next" width="60" height="60"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></td>
@@ -46,7 +46,7 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 <td style="background:transparent;border:none;padding:8px;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></td>
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></td>
-<td style="background:transparent;border:none;padding:8px;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="60" height="60"/></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jest/white"><img src="https://cdn.simpleicons.org/jest/black" alt="jest" width="60" height="60"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td><td style="background:transparent;border:none;padding:8px;"></td>
 </tr>
 </tbody></table>
@@ -62,5 +62,4 @@ Want to contact me? I'll be happy to talk!
 ---
 
 <p align="center">
-  Last updated: February 2026
-</p>
+  Last updated: May  2026</p>
