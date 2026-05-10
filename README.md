@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Luis M. Morais
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Core+.NET+Enthusiast;TypeScript+%26+Angular+Lover;Docker+%26+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Core+.NET+%26+Node;TypeScript+%26+Angular+%26+React;Docker+%26+Microservices;Python+%26+FastAPI;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About me
 
-I am a developer passionate about creating robust and scalable solutions. I specialize in the **.NET** ecosystem for the backend and modern frameworks like **Angular** and **React** for the frontend. Always looking to learn new technologies and improve my skills in software architecture.
+I am a developer passionate about creating robust and scalable solutions. I specialize in the **.NET**, **Node**, and **Python FastAPI** ecosystems for the backend, modern frameworks like **Angular** and **React** for the frontend, and **Docker** for containerization. Always looking to learn new technologies and improve my skills in software architecture.
 
 - 🌍 Based in Spain.
 - 🛠️ Currently working on Microservices and Clean Architectures projects.
@@ -53,6 +53,13 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/></picture></td>
 <td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/></td>
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jest/white"><img src="https://cdn.simpleicons.org/jest/black" alt="jest" width="80" height="80"/></picture></td>
+</tr>
+<tr>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rabbitmq/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="80" height="80"/></picture></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/></picture></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></picture></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></picture></td>
+<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/xunit/white"><img src="https://cdn.simpleicons.org/xunit/black" alt="xunit" width="80" height="80"/></picture></td>
 </tr>
 </tbody></table>
 
