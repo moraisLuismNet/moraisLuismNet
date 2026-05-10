@@ -55,11 +55,11 @@ I am a developer passionate about creating robust and scalable solutions. I spec
 <td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jest/white"><img src="https://cdn.simpleicons.org/jest/black" alt="jest" width="80" height="80"/></picture></td>
 </tr>
 <tr>
-<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rabbitmq/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="80" height="80"/></picture></td>
-<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/></picture></td>
-<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></picture></td>
-<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></picture></td>
-<td style="background:transparent;border:none;padding:8px;"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/xunit/white"><img src="https://cdn.simpleicons.org/xunit/black" alt="xunit" width="80" height="80"/></picture></td>
+<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="80" height="80"/></td>
+<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/></td>
+<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></td>
+<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></td>
+<td style="background:transparent;border:none;padding:8px;"><img src="https://raw.githubusercontent.com/xunit/media/main/logo-512-transparent.png" alt="xunit" width="80" height="80"/></td>
 </tr>
 </tbody></table>
 
